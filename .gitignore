@@ -1,0 +1,9 @@
+# Environment
+venv/
+.venv/
+*-venv/
+
+# files and folders to ignore
+documents/converted/*.md
+documents/original/*.pdf
+reports/*.md
