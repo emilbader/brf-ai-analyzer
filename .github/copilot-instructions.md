@@ -13,8 +13,8 @@ Börja med att konvertera PDF-filen till textformat för att underlätta analyse
 
 Om konvertering behövs, använd följande Python-skript för att konvertera PDF-filer till text:
 
-- Linux/macOS`pymupdf-venv/bin/python ./pdf-ocr-converter.py <path-to-pdf>`
-- Windows `pymupdf-venv\Scripts\python.exe ./pdf-ocr-converter.py <path-to-pdf>`
+- Linux/macOS: `pymupdf-venv/bin/python ./pdf-ocr-converter.py <path-to-pdf>`
+- Windows: `pymupdf-venv\Scripts\python.exe ./pdf-ocr-converter.py <path-to-pdf>`
 
 Förhåll dig till förljande riktlinjer när du utför din analys:
 
